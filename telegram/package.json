@@ -1,0 +1,15 @@
+{
+  "name": "echo-bot-telegram",
+  "homepage": "telegram.me/chatHackDay_echoBot",
+  "version": "0.0.0",
+  "description": "A telegram bot that echos back what is said to it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Noble",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.24.0"
+  }
+}
