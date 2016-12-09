@@ -1,0 +1,14 @@
+{
+  "name": "echo-bot-twitter",
+  "version": "0.0.0",
+  "description": "A twitter bot that echos back what is said to it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Noble",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.5.0"
+  }
+}
