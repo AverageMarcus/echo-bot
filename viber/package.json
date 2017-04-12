@@ -1,0 +1,14 @@
+{
+  "name": "echo-bot-viber",
+  "version": "0.0.0",
+  "description": "A viber bot that echos back what is said to is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Noble",
+  "license": "MIT",
+  "dependencies": {
+    "viber-bot": "^1.0.7"
+  }
+}
